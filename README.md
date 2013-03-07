@@ -5,4 +5,4 @@ CRC64_Poco
  
  Run make. You need Poco lib, gcc 4.7 or more, for successful make.
  
- That run test_app with -all key (all tests). 
+ Than run test_app with -all key (all tests). 
